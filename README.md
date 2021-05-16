@@ -6,7 +6,14 @@
 
 #### A guide covering C# including the applications and tools that will make you a better and more efficient C# developer.
 
-## Resources
+**Note: You can easily convert this markdown file to a PDF in [VSCode](https://code.visualstudio.com/) using this handy extension [Markdown PDF](https://marketplace.visualstudio.com/items?itemName=yzane.markdown-pdf).**
+
+<p align="center">
+ <img src="https://user-images.githubusercontent.com/45159366/118412221-a0b6be80-b64d-11eb-91a0-09424237e176.png">
+  <br />
+</p>
+
+# C# Learning Resources
 
 [C#](https://docs.microsoft.com/en-us/dotnet/csharp/) is a modern and object-oriented programming language developed by Microsoft to write any application using the C# programming language on the .NET platform.
 
@@ -34,7 +41,7 @@
 
 [RabbitMQ .NET/C# Client API](https://www.rabbitmq.com/dotnet-api-guide.html)
 
-## Tools
+# C# Tools and Frameworks
 
 [Mono](https://www.mono-project.com/) is a software platform designed to allow developers to easily create cross platform applications. It is an open source implementation of Microsoft's .NET Framework based on the ECMA standards for C# and the Common Language Runtime.
 
@@ -79,3 +86,12 @@
 [AutoRest](https://github.com/Azure/autorest) is a tool generates client libraries for accessing RESTful web services using the [OpenAPI Specification](https://github.com/OAI/OpenAPI-Specification) format. It Supports C#, PowerShell, Go, Java, Node.js, TypeScript, Python, Ruby.
 
 [Markdig](https://github.com/lunet-io/markdig) is a fast, powerful, [CommonMark](https://commonmark.org/) compliant, extensible Markdown processor for .NET.
+
+## Contribute
+
+- [x] If would you like to contribute to this guide simply make a [Pull Request](https://github.com/mikeroyal/C-Sharp-Guide/pulls).
+
+
+## License
+
+Distributed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) Public License](https://creativecommons.org/licenses/by/4.0/).
